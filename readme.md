@@ -1,7 +1,9 @@
-//create base
-meteor craate logauth
-meteor npm install
+#Simple Authentication using Meteor#
 
-//add simple authentication
-meteor add accounts-ui accounts-password
+##create base
+`meteor create logauth`
+`meteor npm install`
+
+##add simple authentication
+`meteor add accounts-ui accounts-password`
 
