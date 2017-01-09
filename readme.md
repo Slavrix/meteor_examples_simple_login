@@ -1,8 +1,8 @@
 #Simple Authentication using Meteor#
 
 ###To run from this repo###
-`git clone https://github.com/Slavrix/meteor_examples_simple_login.git`\s
-`meteor npm install`\s
+`git clone https://github.com/Slavrix/meteor_examples_simple_login.git`  
+`meteor npm install`  
 `meteor`
 
 ###Use###
@@ -12,7 +12,7 @@
 
 ##Steps to create##
 ###create base###
-`meteor create logauth`\s
+`meteor create logauth`  
 `meteor npm install`
 
 ###add simple authentication###
